@@ -1,0 +1,190 @@
+{
+    "doc":{
+       "BankTransactionHistory":{
+          "transctionHistory":[
+             {
+                "Date":"2022-06-05T18:30:00.000Z",
+                "EffectiveDate":"2022-06-05T18:30:00.000Z",
+                "Branch":"Bandan Bank",
+                "Description":"deposit",
+                "DepositAmount":25000,
+                "Blance":25000,
+                "_id":"629d946737ff8851b9ea1059"
+             },
+             {
+                "Date":"2022-06-05T18:30:00.000Z",
+                "EffectiveDate":"2022-06-05T18:30:00.000Z",
+                "Branch":"Bandan Bank",
+                "Description":"deposit",
+                "DepositAmount":45000,
+                "Blance":70000,
+                "_id":"629db4deb6b0d14aee37b5fc"
+             },
+             {
+                "Date":"2022-06-05T18:30:00.000Z",
+                "EffectiveDate":"2022-06-05T18:30:00.000Z",
+                "Branch":"Bandan Bank",
+                "Description":"deposit",
+                "DepositAmount":9000,
+                "Blance":79000,
+                "_id":"629db4fbb6b0d14aee37b607"
+             },
+             {
+                "Date":"2022-06-05T18:30:00.000Z",
+                "EffectiveDate":"2022-06-05T18:30:00.000Z",
+                "Branch":"Bandan Bank",
+                "Description":"deposit",
+                "DepositAmount":1000,
+                "Blance":80000,
+                "_id":"629db50eb6b0d14aee37b60f"
+             },
+             {
+                "Date":"2022-06-05T18:30:00.000Z",
+                "EffectiveDate":"2022-06-05T18:30:00.000Z",
+                "Branch":"Bandan Bank",
+                "Description":"deposit",
+                "DepositAmount":23000,
+                "Blance":103000,
+                "_id":"629db525b6b0d14aee37b61e"
+             },
+             {
+                "Date":"2022-06-05T18:30:00.000Z",
+                "EffectiveDate":"2022-06-05T18:30:00.000Z",
+                "Branch":"paytm",
+                "Description":"cashback",
+                "DepositAmount":46,
+                "Blance":103046,
+                "_id":"629db552b6b0d14aee37b628"
+             },
+             {
+                "Date":"2022-06-05T18:30:00.000Z",
+                "EffectiveDate":"2022-06-05T18:30:00.000Z",
+                "Branch":"Bandan Bank",
+                "Description":"deposit",
+                "DepositAmount":476,
+                "Blance":103522,
+                "_id":"629db571b6b0d14aee37b633"
+             },
+             {
+                "Date":"2022-06-05T18:30:00.000Z",
+                "EffectiveDate":"2022-06-05T18:30:00.000Z",
+                "Branch":"Bandan Bank",
+                "Description":"deposit",
+                "DepositAmount":2000,
+                "Blance":105522,
+                "_id":"629db589b6b0d14aee37b648"
+             },
+             {
+                "Date":"2022-06-05T18:30:00.000Z",
+                "EffectiveDate":"2022-06-05T18:30:00.000Z",
+                "ChequeNumber":"2312",
+                "Branch":"Bandan Bank",
+                "Description":"withrawal by cheque",
+                "WithdrawalAmount":5000,
+                "Blance":100522,
+                "_id":"629db5d0b6b0d14aee37b655"
+             },
+             {
+                "Date":"2022-06-05T18:30:00.000Z",
+                "EffectiveDate":"2022-06-05T18:30:00.000Z",
+                "ChequeNumber":"4545",
+                "Branch":"Bandan Bank",
+                "Description":"withrawal by cheque",
+                "WithdrawalAmount":55000,
+                "Blance":45522,
+                "_id":"629db5f7b6b0d14aee37b663"
+             },
+             {
+                "Date":"2022-06-05T18:30:00.000Z",
+                "EffectiveDate":"2022-06-05T18:30:00.000Z",
+                "ChequeNumber":"",
+                "Branch":"Bandan Bank",
+                "Description":"sms service charge",
+                "WithdrawalAmount":117,
+                "Blance":45405,
+                "_id":"629db64ab6b0d14aee37b672"
+             },
+             {
+                "Date":"2022-06-05T18:30:00.000Z",
+                "EffectiveDate":"2022-06-05T18:30:00.000Z",
+                "ChequeNumber":"",
+                "Branch":"Bandan Bank",
+                "Description":"atm service charge",
+                "WithdrawalAmount":219,
+                "Blance":45186,
+                "_id":"629db672b6b0d14aee37b682"
+             },
+             {
+                "Date":"2022-06-05T18:30:00.000Z",
+                "EffectiveDate":"2022-06-05T18:30:00.000Z",
+                "Branch":"Bandan Bank",
+                "Description":"deposit",
+                "DepositAmount":9000,
+                "Blance":54186,
+                "_id":"629dc863b6b0d14aee37b6b5"
+             },
+             {
+                "Date":"2022-06-06T18:30:00.000Z",
+                "EffectiveDate":"2022-06-06T18:30:00.000Z",
+                "Branch":"Bandan Bank",
+                "Description":"deposit",
+                "DepositAmount":45000,
+                "Blance":99186,
+                "_id":"629ee0d398c889355b5164a6"
+             },
+             {
+                "Date":"2022-06-06T18:30:00.000Z",
+                "EffectiveDate":"2022-06-06T18:30:00.000Z",
+                "Branch":"Bandan Bank",
+                "Description":"deposit",
+                "DepositAmount":5000,
+                "Blance":104186,
+                "_id":"629ee0e798c889355b5164b9"
+             },
+             {
+                "Date":"2022-06-06T18:30:00.000Z",
+                "EffectiveDate":"2022-06-06T18:30:00.000Z",
+                "ChequeNumber":"7565",
+                "Branch":"Bandan Bank",
+                "Description":"withrawal by cheque",
+                "WithdrawalAmount":5000,
+                "Blance":99186,
+                "_id":"629ee0ff98c889355b5164cd"
+             },
+             {
+                "Date":"2022-06-06T18:30:00.000Z",
+                "EffectiveDate":"2022-06-06T18:30:00.000Z",
+                "ChequeNumber":"",
+                "Branch":"Bandan Bank",
+                "Description":"charges to getway",
+                "WithdrawalAmount":189,
+                "Blance":98997,
+                "_id":"629ee12e98c889355b5164e2"
+             },
+             {
+                "Date":"2022-06-02T00:00:00.000Z",
+                "EffectiveDate":"2022-06-02T00:00:00.000Z",
+                "Branch":"Malout hdfc bank ",
+                "Description":"paid payment for service ",
+                "DepositAmount":50000,
+                "Blance":148997,
+                "_id":"62a6dcd8d8adf1558fb99b95"
+             }
+          ]
+       },
+       "_id":"629d946737ff8851b9ea1058",
+       "name":"MR. DEEPAK KUMAR",
+       "Address":"MAJITHI GURDASPUR BEHRAMPUR DIST GURDASPUR MIANI CHAMELA 143532 PUNJAB INDIA",
+       "AccountNumber":50190034405347,
+       "IFSC":"BDBL0001784",
+       "Branch_MICR_Code":143750202,
+       "Branch_GSTIN":"03AAGCB1323G1ZD",
+       "Customer_Number":190004306125,
+       "ProductType":"SB Advantage - 25000 MAB",
+       "AccountType":"Active",
+       "AccountOpenBlance":500,
+       "createdAt":"2022-06-06T05:45:11.402Z",
+       "updatedAt":"2022-06-13T06:44:40.014Z",
+       "_v":0
+    }
+ }
